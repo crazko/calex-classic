@@ -1,5 +1,8 @@
 # Calex
 Browser extension that shows events' descriptions in Google Calendar.
+
+## Installation
+Install from [Chrome Web Store](https://chrome.google.com/webstore/detail/calex-for-google-calendar/ccoehijdbponhcemihobmdpaeenmgchg).
 ![Calex in Google Calendar](docs/screenshot.png)
 
 ## Features
@@ -8,9 +11,6 @@ Browser extension that shows events' descriptions in Google Calendar.
     - the agenda view
     - the search results
 - supports markdown format thanks to [showdownjs/showdown](https://github.com/showdownjs/showdown)
-
-## Installation
-Install from [Chrome Web Store](https://chrome.google.com/webstore/detail/calex-for-google-calendar/ccoehijdbponhcemihobmdpaeenmgchg).
 
 ### Development version
 Clone this repository and load [develop branch](https://github.com/crazko/calex/tree/develop) as unpacked extension.
