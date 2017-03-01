@@ -2,7 +2,7 @@ const debug = true;
 const manifest = chrome.runtime.getManifest();
 const settings = {
   client_id: manifest.oauth2.client_id,
-  client_secret: '3ZpXoZdkZfAvJWODA7TVHcm4',
+  client_secret: 'usq5dT6yGdw6sjdlE65XWHp5',
   redirect_uri: chrome.identity.getRedirectURL('provider_cb')
 }
 
