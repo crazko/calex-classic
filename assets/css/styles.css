@@ -9,3 +9,7 @@
 .calex__description hr {
     display: block !important;
 }
+
+.calex__description blockquote {
+    font-style: italic;
+}
