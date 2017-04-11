@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
+## Added
+- release script
+
 ### Updated
 - Showdown.js - a markdown parser library to v1.6.3
 - options of markdown parser:
