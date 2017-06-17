@@ -26,7 +26,3 @@ Tested in:
 - checkout a new branch
 - load directory as an unpacked extension (be sure you have enabled **developer mode**)
 - you have to reload extension on every change you made
-
-### Todo
-- [ ] simple cache to avoid unnecessary requests
-- [ ] show description in event popup
