@@ -85,15 +85,14 @@ const getAllEvents = function() {
 /* ----------------------------------------------------- */
 
 const calendarContainer = document.getElementById("gridcontainer");
+const markdownConverter = new showdown.Converter({
+  noHeaderId: true,
+  simplifiedAutoLink: true,
+  excludeTrailingPunctuationFromURLs: true,
+  strikethrough: true
+});
 
 if (calendarContainer) {
-  const markdownConverter = new showdown.Converter({
-    noHeaderId: true,
-    simplifiedAutoLink: true,
-    excludeTrailingPunctuationFromURLs: true,
-    strikethrough: true
-  });
-
   // Check for change in calendar.
   // Gather all events and send them to background to process
   const observer = new MutationObserver(function(mutations) {
