@@ -1,4 +1,4 @@
-# Calex
+# Calex [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ccoehijdbponhcemihobmdpaeenmgchg.svg)](https://chrome.google.com/webstore/detail/calex-for-google-calendar/ccoehijdbponhcemihobmdpaeenmgchg)
 A browser extension that shows events' descriptions in Google Calendar.
 
 Descriptions of the events are displayed in the agenda and search view.
