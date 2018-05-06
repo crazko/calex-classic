@@ -2,8 +2,6 @@
 
 A browser extension that shows events' descriptions in Google Calendar.
 
-Descriptions of the events are displayed in the agenda and search view.
-
 > **Note:** In October 2017 Google [launched new version](https://9to5google.com/2017/10/17/google-calendar-web-material-design-update/) of Calendar, which this extension isn't compatible with, but still works with older "Classic" Calendar as long as it is available. See the [new version](https://github.com/crazko/calex) of the extension.
 
 ## Installation
